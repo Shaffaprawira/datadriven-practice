@@ -1,4 +1,4 @@
-# lone_parrot_7750's data engineering practice
+# Shaffa's data engineering practice
 
 Scored work from [DataDriven](https://datadriven.io/u/lone_parrot_7750), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
