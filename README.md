@@ -1,2 +1,17 @@
-# datadriven-practice
-Scored data engineering practice from datadriven.io
+# lone_parrot_7750's data engineering practice
+
+Scored work from [DataDriven](https://datadriven.io/u/lone_parrot_7750), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
+
+<!-- datadriven:index:start -->
+
+## Practice
+
+| Problem | Domain | Difficulty | Solved |
+|---|---|---|---|
+| [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-10-20 |
+
+<!-- datadriven:index:end -->
+
+---
+
+Synced by [DataDriven](https://datadriven.io). Solve a problem there and it lands here.
