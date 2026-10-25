@@ -1,6 +1,6 @@
-# Shaffa's data engineering practice
+# shaffaprawira's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/lone_parrot_7750), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/shaffaprawira), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/lone_parrot_7750), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-10-25 |
 | [The Original Keeper](./practice/python/the-original-keeper) | Python | Easy | 2026-10-24 |
 | [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-10-24 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-10-20 |
