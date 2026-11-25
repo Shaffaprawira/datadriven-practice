@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/shaffaprawira), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Only Difference](./practice/python/the-only-difference) | Python | Easy | 2026-11-25 |
 | [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-10-25 |
 | [The Original Keeper](./practice/python/the-original-keeper) | Python | Easy | 2026-10-24 |
 | [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-10-24 |
